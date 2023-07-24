@@ -15,7 +15,7 @@
 		<ApplicationTitle>myapp</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.companyname.myapp</ApplicationId>
+		<ApplicationId>no.lahb.myapp</ApplicationId>
 		<ApplicationIdGuid>35694698-73d2-4975-b594-3aac4525beac</ApplicationIdGuid>
 
 		<!-- Versions -->
